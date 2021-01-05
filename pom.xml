@@ -62,7 +62,7 @@
         <version.nimbus-jose-jwt>4.26.1</version.nimbus-jose-jwt>
         <version.arquillian_core>1.1.10.Final</version.arquillian_core>
         <version.arquillian_chameleon>1.0.0.Alpha7</version.arquillian_chameleon>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.jersey>2.23.2</version.jersey>
         <version.jackson>2.8.3</version.jackson>
     </properties>
